@@ -1,4 +1,4 @@
-ROP TABLE departments
+DROP TABLE departments
 
 CREATE TABLE departments (
 	dept_no VARCHAR(9) PRIMARY KEY,
